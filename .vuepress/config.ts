@@ -3,9 +3,9 @@ import theme from "./theme";
 
 export default defineUserConfig({
   lang: "en-US",
-  title: "SAF InSpec Profile Developer",
-  description: "The MITRE Security Automation Framework Team's Introduction to InSpec profile development",
+  title: "SAF Advanced InSpec Profile Developer Course",
+  description: "The MITRE Security Automation Framework Team's Advanced InSpec profile development course",
 
-  base: process.env.GITHUB_DEPLOY === "true" ? "/inspec-developer/" : "/",
+  base: process.env.GITHUB_DEPLOY === "true" ? "/inspec-advanced-developer/" : "/",
   theme,
 });
