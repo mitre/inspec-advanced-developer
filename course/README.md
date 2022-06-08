@@ -1,7 +1,7 @@
 ---
 next: 02.md
 icon: page
-title: About InSpec
+title: 1. About InSpec
 author: Aaron Lippold
 headerDepth: 3
 ---
