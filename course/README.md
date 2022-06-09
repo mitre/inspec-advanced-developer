@@ -16,13 +16,23 @@ The purpose of this course is to take you beyond profile development and give yo
 -	Inherit controls from existing profile baselines into your profiles to avoid rework
 -	Run an InSpec profile against a target - a component of an application stack
 -	View and analyze InSpec results
--	Report results
+-	Report Results
 -	Create concise, human-readable control output using RSpec syntax in InSpec profiles
 
 ### Advanced course objectives:
 -   Develop resources to aid in creating controls
 -	Automate security testing by integrating InSpec into a CI/CD pipeline
 -	Contribute to an open-source security platform by pushing the resources you develop to the InSpec framework
+
+## About InSpec
+- InSpec is an open-source, community-developed  compliance validation framework
+- Provides a mechanism for defining machine-readable compliance and security requirements
+- Easy to create, validate, and read content
+- Cross-platform (Windows, Linux, Mac)
+- Agnostic to other DevOps tools and techniques
+- Integrates into multiple configuration managament tools
+
+## About Security Automation
 
 Orchestration, Configuration Management, Validation to Deployment
 InSpec operates with most orchestration and CM tools found in the DevOps pipeline implementations
