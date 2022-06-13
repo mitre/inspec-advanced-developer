@@ -9,7 +9,7 @@ actions:
   - text: Start the Class!
     link: /course/
   - text: Go To the Development Lab
-    link: https://github.com/mitre/inspec-profile-developer-course-lab-environment
+    link: https://github.com/mitre/inspec-advanced-profile-developer-course-lab-environment
   - text: Getting Started with Ruby (text)
     link: https://ruby-for-beginners.rubymonstas.org/
   - text: Ruby Walkthrough (video)
