@@ -32,24 +32,22 @@ The purpose of this course is to take you beyond profile development and give yo
 - Agnostic to other DevOps tools and techniques
 - Integrates into multiple configuration managament tools
 
+## The Road to Security Automation
+
+InSpec is one of the primary tools in the Security Automation workflow. It integrates easily with orchestration and configuration management tools found in the DevOps world.
+
+As you can see from the picture below, the process for developing automated security tests starts with a human-language requirements documents like SRGs, STIGs or CIS Benchmark and then implements them as code. We need that code to record test results in a standardized format so that we can easily export our security data somewhere people can use it to make decisions (like the Heimdall visualization app).
+
+This challenge is what the [MITRE Security Automation Framework](https://saf.mitre.org) or MITRE SAF was developed to simplify -- to make the journey from a Requirement Document to an automated test profile and back again a little easier to navigate.
+
+![Alt text](../assets/img/saf-lifecycle.png)
+
 ## About Security Automation
 
 Orchestration, Configuration Management, Validation to Deployment
 InSpec operates with most orchestration and CM tools found in the DevOps pipeline implementations
 
 ![Alt text](../assets/img/InSpec_Orchestration.png)
-
----
-
-Automating Security Validation Using InSpec
-
-![Alt text](../assets/img/Automating_Security_Validation.png)
-
----
-
-Processing InSpec Results
-
-![Alt text](../assets/img/Processing_InSpec_Results.png)
 
 ## Where can I start on my own?
 You can contribute to existing profiles that can be found here:  
